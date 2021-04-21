@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\0_LaGou_study\\\\part3-3\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\0_LaGou_study\\\\part3-3\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_338b0400"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\0_LaGou_study\\\\part3-3\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_3e0dc468"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\0_LaGou_study\\\\part3-3\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_3e0dc468"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\0_LaGou_study\\\\part3-3\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_210e52c4"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "E:\\\\0_LaGou_study\\\\part3-3\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_6a55ca30"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "E:\\\\0_LaGou_study\\\\part3-3\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_771eec4e"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "E:\\\\0_LaGou_study\\\\part3-3\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_9cc14396"
+      }
+    ],
+    "_name": "_fa2473ea"
+  }
+]
