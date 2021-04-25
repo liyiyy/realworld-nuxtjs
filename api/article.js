@@ -53,3 +53,13 @@ export const getComments = slug=>{
       url:`/api/articles/${slug}/comments`,
     })
 }
+
+
+// 创建文章
+export const createArticle = data=>{
+  return request({
+      method:'POST',
+      url:`/api/articles`,
+      data
+    })
+}
